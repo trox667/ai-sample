@@ -1,0 +1,3 @@
+curl --json '{"message": "Hello World"}' http://localhost:8080/messages/message
+
+curl http://localhost:8080/messages/
